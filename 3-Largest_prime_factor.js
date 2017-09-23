@@ -1,18 +1,15 @@
-var numero = 13195
-var quitandole = 13195
-var divi = 0
+var numero = 600851475143
+var quitandole = 600851475143
 var array = []
 
-for (var i = 2; i < numero ; i++) {
+for (var i = 2; i < quitandole ; i++) {
 numerodivisible = numero%i;
 if (numerodivisible == 0 ) {
-numero = quitandole-(quitandole/i)
-alert(numero+"quitandole")
+numero = (quitandole/i)
 array.push(i);
-if (numero = 13195) {
-	alert(array+"array");
+alert(array+" array");
+}}
 
-}}}
-
-//5,7,13,29,
-//2639,377/29/1
+// 71 839 1471 6857 
+//71,839,1471,6857 
+// 600851475143  8462696833 10086647  1471

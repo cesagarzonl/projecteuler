@@ -29,3 +29,5 @@ for (var i = 1; i < 1000 ; i++) {
 	array.push(proceso); 
 	}else{console.log(sum-sum3)}
 	}
+
+
