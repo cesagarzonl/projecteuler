@@ -1,7 +1,5 @@
-var multi = 0
 var mutii = 0 
 var ss = 0
-
 for (var i = 1; i < 1000000000; i++) {
 	for (var a = 1; a <= 20; a++) {
 		mutii = i%a
